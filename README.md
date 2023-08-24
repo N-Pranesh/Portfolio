@@ -1,2 +1,2 @@
-# Pranesh_Portfolio
+# Portfolio
 Accademic Portfolio
