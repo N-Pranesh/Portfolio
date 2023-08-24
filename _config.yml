@@ -2,7 +2,7 @@ title: Pranesh Kumar Narasimhan - Data Scientist Portfolio
 description: Welcome to my data science portfolio!
 logo: /images/pranesh-1.jpeg
 show_downloads: true
-theme: jekyll-theme-hydejack  # Update with your chosen theme (e.g., minimal-mistakes, hydejack, etc.)
+theme: jekyll-theme-cayman  # Update with your chosen theme (e.g., minimal-mistakes, hydejack, etc.)
 
 # Social media links
 social:
