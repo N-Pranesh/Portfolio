@@ -35,7 +35,7 @@
     <p>Connect with me on <a href="https://www.linkedin.com/in/pranesh-narasimhan">LinkedIn</a> to learn more about my work and projects.</p>
   </div>
   <div class="image">
-    <img src="/images/pranesh-1.jpeg" alt="Profile Picture">
+    <img src="images/pranesh-1.jpeg" alt="Profile Picture" width="150" style="float: right; margin-left: 20px; border-radius: 5px;">
   </div>
 </div>
 
